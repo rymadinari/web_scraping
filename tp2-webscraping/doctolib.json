@@ -1,0 +1,112 @@
+[
+  {
+    "nom_specialite": "Dr Ugo VERGEYLEN",
+    "adresse": "34 Avenue du Général Sarrail 75016 Paris",
+    "type_consultation": [
+      "n/a"
+    ],
+    "prochains_creneaux": [
+      "n/a"
+    ],
+    "url_fiche": "https://www.doctolib.fr/cardiologue/paris/ugo-vergeylen-paris?pid=practice-114478&phs=true&page=1"
+  },
+  {
+    "nom_specialite": "Dr Laurence Orbinski",
+    "adresse": "27 Avenue Mac-Mahon 75017 Paris",
+    "type_consultation": [
+      "n/a"
+    ],
+    "prochains_creneaux": [
+      "11:00"
+    ],
+    "url_fiche": "https://www.doctolib.fr/cardiologue/paris/laurence-orbinski-paris?pid=practice-622212&phs=true&page=1&index=1"
+  },
+  {
+    "nom_specialite": "Dr Karam SOUIBRI",
+    "adresse": "7 Rue de Turin 75008 Paris",
+    "type_consultation": [
+      "n/a"
+    ],
+    "prochains_creneaux": [
+      "Prochain RDV le 16 octobre 2026"
+    ],
+    "url_fiche": "https://www.doctolib.fr/cardiologue/paris/karam-souibri?pid=practice-80045&phs=true&page=1&index=2"
+  },
+  {
+    "nom_specialite": "Dr Fabrice VINE",
+    "adresse": "18 Avenue de Lowendal 75015 Paris mardi 28 juil. — — — — mercredi 29 juil. — — — — jeudi 30 juil. — — — — vendredi 31 juil. — — — — samedi 1 août — — — — Prochain RDV le 31 août 2026",
+    "type_consultation": [
+      "n/a"
+    ],
+    "prochains_creneaux": [
+      "Prochain RDV le 31 août 2026"
+    ],
+    "url_fiche": "https://www.doctolib.fr/cardiologue/paris/fabrice-vine?pid=practice-49612&phs=true&page=1&index=4"
+  },
+  {
+    "nom_specialite": "Dr NASSER FERROUK",
+    "adresse": "8 Rue de Chazelles 75017 Paris",
+    "type_consultation": [
+      "n/a"
+    ],
+    "prochains_creneaux": [
+      "Prochain RDV le 3 août 2026"
+    ],
+    "url_fiche": "https://www.doctolib.fr/cardiologue/paris/nasser-ferrouk-45dd9dbe-5fb2-4002-b737-8d9d719e54b3?pid=practice-24060&phs=true&page=1&index=5"
+  },
+  {
+    "nom_specialite": "Dr Laurent SEBAGH",
+    "adresse": "6 Rue du Dôme 75116 Paris",
+    "type_consultation": [
+      "n/a"
+    ],
+    "prochains_creneaux": [
+      "Prochain RDV le 22 février 2027"
+    ],
+    "url_fiche": "https://www.doctolib.fr/cardiologue/paris/laurent-sebagh?pid=practice-789185&phs=true&page=1&index=6"
+  },
+  {
+    "nom_specialite": "Dr Edouard SIMEON",
+    "adresse": "9 Rue Yvart 75015 Paris mardi 28 juil. — — — — mercredi 29 juil. — — — — jeudi 30 juil. — — — — vendredi 31 juil. — — — — samedi 1 août — — — — Prochain RDV le 13 août 2026",
+    "type_consultation": [
+      "n/a"
+    ],
+    "prochains_creneaux": [
+      "Prochain RDV le 13 août 2026"
+    ],
+    "url_fiche": "https://www.doctolib.fr/cardiologue/paris/edouard-simeon?pid=practice-585921&phs=true&page=1&index=7"
+  },
+  {
+    "nom_specialite": "Dr Rébecca ATTIAS-BESNAINOU",
+    "adresse": "105 Avenue Victor Hugo 75116 Paris",
+    "type_consultation": [
+      "n/a"
+    ],
+    "prochains_creneaux": [
+      "Prochain RDV le 21 décembre 2026"
+    ],
+    "url_fiche": "https://www.doctolib.fr/cardiologue/boulogne-billancourt/rebecca-attias-besnainou?pid=practice-64254&phs=true&page=1&index=8"
+  },
+  {
+    "nom_specialite": "Dr Yoram Nahmani",
+    "adresse": "14 Rue Moreau 75012 Paris",
+    "type_consultation": [
+      "n/a"
+    ],
+    "prochains_creneaux": [
+      "12:20"
+    ],
+    "url_fiche": "https://www.doctolib.fr/cardiologue/paris/yoram-nahmani-969481ed-a4c8-4818-94a2-80ab8d12ea08?pid=practice-534884&phs=true&page=1&index=9"
+  },
+  {
+    "nom_specialite": "Dr Jean-Marie KLEIN",
+    "adresse": "5bis Avenue de Saint-Mandé 75012 Paris",
+    "type_consultation": [
+      "n/a"
+    ],
+    "prochains_creneaux": [
+      "n/a"
+    ],
+    "url_fiche": "https://www.doctolib.fr/cardiologue/paris/jean-marie-klein?pid=practice-65876&phs=true&page=1&index=10"
+  }
+]
