@@ -8,7 +8,6 @@ class FilmsSpider(scrapy.Spider):
     name = "films"
     allowed_domains = ["www.allocine.fr"]
 
-    # Environ 200 films (20 pages x ~10 films)
     start_urls = [
         f"https://www.allocine.fr/film/meilleurs/?page={page}"
         for page in range(1, 21)
@@ -51,16 +50,11 @@ class FilmsSpider(scrapy.Spider):
             ]
 
 
-        # -----------------------
-        # Titre
-        # -----------------------
+
 
         titre = safe("h1::text")
 
 
-        # -----------------------
-        # Notes
-        # -----------------------
 
         notes = safe_all(".stareval-note::text")
 
@@ -77,11 +71,6 @@ class FilmsSpider(scrapy.Spider):
         )
 
 
-        # -----------------------
-        # Année depuis <title>
-        # Exemple :
-        # "Film 2001 - AlloCiné"
-        # -----------------------
 
         annee = ""
 
@@ -99,9 +88,6 @@ class FilmsSpider(scrapy.Spider):
                 annee = match.group(1)
 
 
-        # -----------------------
-        # Réalisateur
-        # -----------------------
 
         textes_direction = response.css(
             ".meta-body-direction"
@@ -121,10 +107,6 @@ class FilmsSpider(scrapy.Spider):
                 realisateur = texte
                 break
 
-
-        # -----------------------
-        # Item final
-        # -----------------------
 
         yield FilmItem(
 
