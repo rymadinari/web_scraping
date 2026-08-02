@@ -1,0 +1,6 @@
+requests
+python-whois
+beautifulsoup4
+lxml
+feedparser
+scrapy
